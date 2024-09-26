@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Tom
-- 👀 I’m interested in Minecraft
-- 🌱 I’m currently learning Python
-- 📫 How to reach me , don't just don't im probbaby asleep
+
